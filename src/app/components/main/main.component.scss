@@ -1,0 +1,29 @@
+
+#titleContainer {
+    background-color: #3792E4;
+    height: 85px;
+}
+
+#resourceListing {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h3 {
+    background-color: #ECEFF1;
+}
+
+#resourceListing div a {
+    color: #000;
+    text-decoration: none;
+}
+
+#resourceListing div a:hover {
+    color: #000;
+    text-decoration: none;
+    border: 2px solid #3792E4;
+}
+
+#lista {
+    box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.5), -5px -5px 10px 0px rgba(0,0,0,0.5);
+} 
